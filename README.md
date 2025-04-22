@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Sourabh, a highly motivated cybersecurity professional with a strong academic foundation in Forensic Science (MSc).
+As a seasoned Cyber Security professional, I leverage my expertise in Crime Scene Investigation and Audio & Video Analysis to drive innovative solutions in the ever-evolving landscape of digital security. With a robust background in ethical hacking and network security, I have had the privilege of collaborating with esteemed organizations, including the Prayagraj Police and the CBI CFSL Delhi.
+
+I hold a Post Graduate Program in Advanced Cyber Security from the Indian Institute of Technology (IIT), Bangalore, and a Master of Science (MSc.) in Forensic Science from SHUATS. My commitment to professional development is underscored by my certifications as a Certified Ethical Hacker (CEH) and a Certified Network Security Practitioner (CNSP).
+
+I am passionate about staying at the forefront of the latest trends and advancements in the field, ensuring my skills remain cutting-edge. I am excited to connect with like-minded professionals and explore opportunities that align with my expertise. Let's collaborate and drive positive change in the world of Cyber Security!.
 
 
 ## 🌐 Socials:
