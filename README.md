@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sourabh%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Professional%20%7C%20CVE%20Researcher%20%7C%20Digital%20Forensics%20Expert&descSize=14&descAlignY=55&descAlign=50&descColor=00d9ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sourabh%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Professional%20%7C%20AI%20Pentester%20%7C%20AI%20Developer%20%7C%20Digital%20Forensics%20Expert&descSize=13&descAlignY=55&descAlign=50&descColor=00d9ff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%94%90+Ethical+Hacker+%26+Penetration+Tester;%F0%9F%90%9B+CVE+Researcher+%7C+Bug+Hunter;%F0%9F%94%AC+Digital+Forensics+%26+DFIR+Specialist;%F0%9F%8E%93+IIT+Bangalore+%7C+CEH+%7C+CNSP+Certified;%F0%9F%9A%94+Collaborator+with+CBI+CFSL+%26+Prayagraj+Police)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%94%90+Ethical+Hacker+%26+Penetration+Tester;%F0%9F%A4%96+AI+Pentester+%7C+LLM+Security+Researcher;%F0%9F%92%A1+AI+Developer+%7C+Security+Automation;%F0%9F%94%AC+Digital+Forensics+%26+DFIR+Specialist;%F0%9F%8E%93+IIT+Bangalore+%7C+CEH+%7C+CNSP+Certified)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,13 +18,14 @@
 
 ## 🧑‍💻 About Me
 
-Seasoned **Cyber Security Professional** with expertise in **Digital Forensics**, **Ethical Hacking**, and **Network Security** — driving innovative solutions in the ever-evolving security landscape.
+Seasoned **Cyber Security Professional** with expertise in **Digital Forensics**, **Ethical Hacking**, and **Network Security** — now leveraging **AI & LLMs** to build next-generation offensive security tools.
 
-- 🔭 Currently researching **SSRF bypass techniques** & **CVE hunting**
+- 🔭 Currently building **AI-powered pentesting tools** & automation
+- 🤖 **AI Pentester** — LLM-driven vulnerability discovery & exploitation
+- 💡 **AI Developer** — Building security bots, agents & AI pipelines
 - 🏛️ Collaborated with **Prayagraj Police** & **CBI CFSL Delhi**
 - 🎓 **PG Advanced Cyber Security** — IIT Bangalore
 - 🔬 **MSc. Forensic Science** — SHUATS
-- 🐛 **CVE Researcher** — 2× Security Advisories in Mautic 7.2.2
 - 🌐 Specialist: Crime Scene Investigation · Audio/Video Analysis · DFIR
 - 📫 Reach me at **sourabh.singh.1828@gmail.com**
 - ⚡ Fun fact: *I break things to make them stronger!*
@@ -38,21 +39,6 @@ Seasoned **Cyber Security Professional** with expertise in **Digital Forensics**
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sourabh1828&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐛 CVE / Security Research
-
-<div align="center">
-
-| 🔖 Advisory | 🔍 Vulnerability | ⚠️ Severity | 📦 Product |
-|:-----------:|:----------------|:-----------:|:----------:|
-| [GHSA-5j36-pgxp-ph8v](https://github.com/mautic/mautic/security/advisories/GHSA-5j36-pgxp-ph8v) | SSRF via `0.0.0.0/8` omission in `PrivateAddressChecker` | 🟡 Moderate 6.4 | Mautic ≥ 4.0 |
-| [GHSA-wqf9-vh9p-65jp](https://github.com/mautic/mautic/security/advisories/GHSA-wqf9-vh9p-65jp) | SSRF via IPv4-mapped IPv6 `::ffff:` bypass in `PrivateAddressChecker` | 🟡 Moderate 4.9 | Mautic ≥ 4.0 |
-
-> 🛡️ Responsibly disclosed via GitHub Private Security Advisories · `mautic/core` (Composer) · 2026
 
 </div>
 
@@ -85,6 +71,14 @@ Seasoned **Cyber Security Professional** with expertise in **Digital Forensics**
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
+**🤖 AI & Machine Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Python AI](https://img.shields.io/badge/Python-AI%2FML-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 **💻 Programming & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -103,13 +97,6 @@ Seasoned **Cyber Security Professional** with expertise in **Digital Forensics**
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sourabh1828&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh1828&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
 
 <div align="center">
 
