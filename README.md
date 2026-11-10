@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sourabh%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Professional%20%7C%20AI%20Pentester%20%7C%20AI%20Developer%20%7C%20Digital%20Forensics%20Expert&descSize=13&descAlignY=55&descAlign=50&descColor=00d9ff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%94%90+Ethical+Hacker+%26+Penetration+Tester;%F0%9F%A4%96+AI+Pentester+%7C+LLM+Security+Researcher;%F0%9F%92%A1+AI+Developer+%7C+Security+Automation;%F0%9F%94%AC+Digital+Forensics+%26+DFIR+Specialist;%F0%9F%8E%93+IIT+Bangalore+%7C+CEH+%7C+CNSP+Certified)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%94%90+Ethical+Hacker+%26+Penetration+Tester;%F0%9F%A4%96+AI+Pentester+%7C+LLM+Security+Researcher;%F0%9F%92%A1+AI+Developer+%7C+Security+Automation;%F0%9F%94%AC+Digital+Forensics+%26+DFIR+Specialist;%F0%9F%8E%93+IIT+Bangalore+%7C+CEH+%7C+CNSP+Certified)
 
 <br/>
 
@@ -38,7 +38,7 @@ Seasoned **Cyber Security Professional** with expertise in **Digital Forensics**
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sourabh1828&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Sourabh1828&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -100,7 +100,7 @@ Seasoned **Cyber Security Professional** with expertise in **Digital Forensics**
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sourabh1828&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sourabh1828&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
